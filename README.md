@@ -1,7 +1,7 @@
 # Todo-App-With-TDD
 It is main repository of the Todo App.
 
-This applicationh has three repositories. They are Frontend, Backend and User Acceptance Test repositories.
+This application has three repositories. They are Frontend, Backend and User Acceptance Test repositories.
 
 - [Frontend](https://github.com/UtkuErdemir/Todo-Frontend)
 - [Backend](https://github.com/UtkuErdemir/Todo-Backend)
